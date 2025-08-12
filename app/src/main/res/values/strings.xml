@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CitiesChallenge</string>
+    <string name="cities_screen_title">Cities</string>
+    <string name="filter_cities">Filter Cities</string>
+    <string name="only_favorite_cities">Only Favorite Cities</string>
+    <string name="located_at">Coordinates: %f, %f</string>
+    <string name="error_message">There was an error loading cities</string>
+    <string name="error_retry_btn">Retry</string>
+    <string name="cities_empty_list">No results found</string>
+    <string name="view_details_btn">View City Details</string>
+    <string name="filtering">Filtering…</string>
+    <string name="country">Country:</string>
+</resources>
